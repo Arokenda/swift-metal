@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F3D52B2B-DB0F-4C51-B99C-6EBD20A2B58D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "8C48DA59-D66A-4D0D-B269-9D98791BEE73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "185AC365-6910-4566-96EE-62B838979498"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MetalTest/ObjModel/ObjModelRenderer.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "loadModel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "185AC365-6910-4566-96EE-62B838979498 - 53dfde8c44b99851"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MetalTest.ObjModelRenderer.loadModel() -&gt; __C.MDLMesh"
+                  moduleName = "MetalTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangxinjie/code/swift/MetalTest/MetalTest/ObjModel/ObjModelRenderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "4297">
+               </Location>
+               <Location
+                  uuid = "185AC365-6910-4566-96EE-62B838979498 - 53dfde8c44b99851"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MetalTest.ObjModelRenderer.loadModel() -&gt; __C.MDLMesh"
+                  moduleName = "MetalTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wangxinjie/code/swift/MetalTest/MetalTest/ObjModel/ObjModelRenderer.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "4788">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
